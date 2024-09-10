@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-    background-color: #333;
+    background-color: #000080;
     color: #fff;
     padding: 1em;
     text-align: center;
@@ -114,7 +114,7 @@ body {
 }
 
 .blue-text {
-    color: #007bff;
+    color: #ff0000;
 }
 
 .small-para {
